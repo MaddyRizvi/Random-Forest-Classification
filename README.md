@@ -39,8 +39,15 @@ The dataset contains the following features:
    - Print the accuracy score.
 
 8. **Visualize the Results**
-   - Plot decision boundaries for both training and test sets.
+   ### ✅ Decision Boundary Visualizations
 
+**Training Set:**
+
+![Training Set Result](https://github.com/user-attachments/assets/63dc235f-8cdd-4b48-aba5-68f2c758d1e7)
+
+**Test Set:**
+
+![Test Set Result](https://github.com/user-attachments/assets/f3a451b2-855e-4f5d-a5ef-598edfbdc98d)
 ---
 
 ## 🛠 Requirements
